@@ -1,4 +1,4 @@
-# Download the assignemnt the open it 
+# Download the assignemnt1.pdf then open it 
 
 
 
