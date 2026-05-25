@@ -1,3 +1,8 @@
+# Download the assignemnt the open it 
+
+
+
+
 README — EduSmart AI
 Project Overview
 
